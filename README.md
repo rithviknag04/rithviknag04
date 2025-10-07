@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hiii😀!! I am Rithvik Nag!!!</h2>
+<h2 align="left">Hello😀!! I am Rithvik Nag!!!</h2>
 
 ###
 
