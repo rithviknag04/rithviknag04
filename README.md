@@ -4,7 +4,14 @@
 
 ###
 
-<h2 align="left">Hello😀!! I am Rithvik Nag!!!</h2>
+<h1 align="center">Hi 👋, I'm Rithvik nag</h1>
+<h3 align="center">A passionate developer who is interested in FULL STACK DEVELOPMENT and APPLICATION DEVELOPMENT.</h3>
+
+- 🌱 I’m currently learning **Google Cloud and kotlin**
+
+- 📫 How to reach me **rithvik.nagwork@gmail.com**
+<p align="left">
+</p>
 
 ###
 
@@ -14,9 +21,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rithviknag04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
