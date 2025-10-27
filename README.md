@@ -4,8 +4,8 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Rithvik nag</h1>
-<h3 align="center">A passionate developer who is interested in FULL STACK DEVELOPMENT and APPLICATION DEVELOPMENT.</h3>
+<h1 align="left">Hi 👋, I'm Rithvik nag</h1>
+<h3 align="left">A passionate developer who is interested in FULL STACK DEVELOPMENT and APPLICATION DEVELOPMENT.</h3>
 
 - 🌱 I’m currently learning **Google Cloud and kotlin**
 
