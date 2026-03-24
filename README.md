@@ -7,7 +7,7 @@
 <h1 align="left">Hi 👋, I'm Rithvik nag</h1>
 <h3 align="left">A passionate developer who is interested in FULL STACK DEVELOPMENT and APPLICATION DEVELOPMENT.</h3>
 
-- 🌱 I’m currently learning **Google Cloud and kotlin**
+- 🌱 I’m currently learning **RUST**
 
 - 📫 How to reach me **rithvik.nagwork@gmail.com**
 <p align="left">
