@@ -483,7 +483,7 @@
 </g>
 </svg>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rithviknag04/rithviknag04.git/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rithviknag04/rithviknag04.git/main/light.svg">
   <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/dark.svg" alt="Profile header">
 </picture>
