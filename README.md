@@ -482,3 +482,8 @@
   </g>
 </g>
 </svg>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/light.svg">
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/light.svg" alt="Profile header">
+</picture>
