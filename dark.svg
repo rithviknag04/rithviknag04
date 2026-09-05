@@ -235,7 +235,7 @@
     <circle cx="486" cy="66" r="5.5" fill="#EF4444" opacity="0.85"/>
     <circle cx="506" cy="66" r="5.5" fill="#F59E0B" opacity="0.85"/>
     <circle cx="526" cy="66" r="5.5" fill="#10B981" opacity="0.85"/>
-    <text x="800.0" y="70" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11" fill="#94A3B8">~/alex-rivera — zsh</text>
+    <text x="800.0" y="70" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11" fill="#94A3B8">~/rithvik_nag</text>
 
     <!-- greeting -->
     <g transform="translate(494,118)" opacity="0">end
