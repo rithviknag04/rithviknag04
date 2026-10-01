@@ -235,7 +235,7 @@
     <circle cx="486" cy="66" r="5.5" fill="#EF4444" opacity="0.85"/>
     <circle cx="506" cy="66" r="5.5" fill="#F59E0B" opacity="0.85"/>
     <circle cx="526" cy="66" r="5.5" fill="#10B981" opacity="0.85"/>
-    <text x="800.0" y="70" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11" fill="#475569">~/alex-rivera — zsh</text>
+    <text x="800.0" y="70" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11" fill="#475569">~/rithvik_nag</text>
 
     <!-- greeting -->
     <g transform="translate(494,118)" opacity="0">
@@ -243,7 +243,7 @@
       <text x="0" y="0" font-family="'Inter',sans-serif" font-size="30" font-weight="700" fill="#0F172A">Hi</text>
       <text x="26" y="0" font-family="'Inter',sans-serif" font-size="26">👋</text>
       <text x="62" y="0" font-family="'Inter',sans-serif" font-size="30" font-weight="700" fill="#0F172A">I'm</text>
-      <text x="112" y="0" font-family="'Inter',sans-serif" font-size="30" font-weight="800" fill="url(#accentGrad-light)">Alex Rivera</text>
+      <text x="112" y="0" font-family="'Inter',sans-serif" font-size="30" font-weight="800" fill="url(#accentGrad-light)">Rithvik Nag</text>
     </g>
 
     <!-- typing role -->
@@ -257,7 +257,7 @@
               <animate attributeName="width" values="0;0;189.6;189.6;0;0" keyTimes="0;0.0000;0.1067;0.1667;0.2000;1" dur="15.0s" begin="1.2s" repeatCount="indefinite"/>
             </rect>
           </clipPath>
-          <text x="0" y="0" font-family="'JetBrains Mono',monospace" font-size="19" font-weight="600" fill="url(#accentGrad-light)" clip-path="url(#typeClip-light-0)" textLength="189.6" lengthAdjust="spacing">Frontend Engineer</text>
+          <text x="0" y="0" font-family="'JetBrains Mono',monospace" font-size="19" font-weight="600" fill="url(#accentGrad-light)" clip-path="url(#typeClip-light-0)" textLength="189.6" lengthAdjust="spacing">Backend Developer</text>
         </g>
         <g>
           <clipPath id="typeClip-light-1">
@@ -273,7 +273,7 @@
               <animate attributeName="width" values="0;0;254.4;254.4;0;0" keyTimes="0;0.4000;0.5067;0.5667;0.6000;1" dur="15.0s" begin="1.2s" repeatCount="indefinite"/>
             </rect>
           </clipPath>
-          <text x="0" y="0" font-family="'JetBrains Mono',monospace" font-size="19" font-weight="600" fill="url(#accentGrad-light)" clip-path="url(#typeClip-light-2)" textLength="254.4" lengthAdjust="spacing">Open Source Contributor</text>
+          <text x="0" y="0" font-family="'JetBrains Mono',monospace" font-size="19" font-weight="600" fill="url(#accentGrad-light)" clip-path="url(#typeClip-light-2)" textLength="254.4" lengthAdjust="spacing">Tech Enthusiast</text>
         </g>
         <g>
           <clipPath id="typeClip-light-3">
@@ -281,7 +281,7 @@
               <animate attributeName="width" values="0;0;124.8;124.8;0;0" keyTimes="0;0.6000;0.7067;0.7667;0.8000;1" dur="15.0s" begin="1.2s" repeatCount="indefinite"/>
             </rect>
           </clipPath>
-          <text x="0" y="0" font-family="'JetBrains Mono',monospace" font-size="19" font-weight="600" fill="url(#accentGrad-light)" clip-path="url(#typeClip-light-3)" textLength="124.8" lengthAdjust="spacing">UI Engineer</text>
+          <text x="0" y="0" font-family="'JetBrains Mono',monospace" font-size="19" font-weight="600" fill="url(#accentGrad-light)" clip-path="url(#typeClip-light-3)" textLength="124.8" lengthAdjust="spacing"></text>
         </g>
         <g>
           <clipPath id="typeClip-light-4">
@@ -289,7 +289,7 @@
               <animate attributeName="width" values="0;0;146.4;146.4;0;0" keyTimes="0;0.8000;0.9067;0.9667;1.0000;1" dur="15.0s" begin="1.2s" repeatCount="indefinite"/>
             </rect>
           </clipPath>
-          <text x="0" y="0" font-family="'JetBrains Mono',monospace" font-size="19" font-weight="600" fill="url(#accentGrad-light)" clip-path="url(#typeClip-light-4)" textLength="146.4" lengthAdjust="spacing">AI Enthusiast</text>
+          <text x="0" y="0" font-family="'JetBrains Mono',monospace" font-size="19" font-weight="600" fill="url(#accentGrad-light)" clip-path="url(#typeClip-light-4)" textLength="146.4" lengthAdjust="spacing"></text>
         </g>
         <rect x="-2" y="-16" width="3" height="22" fill="#06B6D4">
           <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
@@ -306,35 +306,35 @@
           <animateTransform attributeName="transform" type="translate" additive="sum" values="-8,0;0,0" keyTimes="0;1" dur="0.5s" begin="2.60s" fill="freeze"/>
           <circle cx="4" cy="-4" r="3" fill="url(#accentGrad-light)"/>
           <text x="16" y="0" font-family="'Inter',sans-serif" font-size="13" fill="#475569">Location:</text>
-          <text x="150" y="0" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="500" fill="#0F172A">San Francisco, CA</text>
+          <text x="150" y="0" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="500" fill="#0F172A">Mysuru, Karnataka</text>
         </g>
         <g transform="translate(494,258)" opacity="0">
           <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.850;1" dur="6s" begin="0s" fill="freeze"/>
           <animateTransform attributeName="transform" type="translate" additive="sum" values="-8,0;0,0" keyTimes="0;1" dur="0.5s" begin="2.95s" fill="freeze"/>
           <circle cx="4" cy="-4" r="3" fill="url(#accentGrad-light)"/>
           <text x="16" y="0" font-family="'Inter',sans-serif" font-size="13" fill="#475569">Education:</text>
-          <text x="150" y="0" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="500" fill="#0F172A">B.S. Computer Science</text>
+          <text x="150" y="0" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="500" fill="#0F172A">B.E. Computer Science</text>
         </g>
         <g transform="translate(494,284)" opacity="0">
           <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.850;1" dur="6s" begin="0s" fill="freeze"/>
           <animateTransform attributeName="transform" type="translate" additive="sum" values="-8,0;0,0" keyTimes="0;1" dur="0.5s" begin="3.30s" fill="freeze"/>
           <circle cx="4" cy="-4" r="3" fill="url(#accentGrad-light)"/>
           <text x="16" y="0" font-family="'Inter',sans-serif" font-size="13" fill="#475569">Current Focus:</text>
-          <text x="150" y="0" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="500" fill="#0F172A">AI-powered Developer Tools</text>
+          <text x="150" y="0" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="500" fill="#0F172A">Rust</text>
         </g>
         <g transform="translate(494,310)" opacity="0">
           <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.850;1" dur="6s" begin="0s" fill="freeze"/>
           <animateTransform attributeName="transform" type="translate" additive="sum" values="-8,0;0,0" keyTimes="0;1" dur="0.5s" begin="3.65s" fill="freeze"/>
           <circle cx="4" cy="-4" r="3" fill="url(#accentGrad-light)"/>
           <text x="16" y="0" font-family="'Inter',sans-serif" font-size="13" fill="#475569">Portfolio:</text>
-          <text x="150" y="0" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="500" fill="#0F172A">alexrivera.dev</text>
+          <text x="150" y="0" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="500" fill="#0F172A">-</text>
         </g>
         <g transform="translate(494,336)" opacity="0">
           <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.850;1" dur="6s" begin="0s" fill="freeze"/>
           <animateTransform attributeName="transform" type="translate" additive="sum" values="-8,0;0,0" keyTimes="0;1" dur="0.5s" begin="4.00s" fill="freeze"/>
           <circle cx="4" cy="-4" r="3" fill="url(#accentGrad-light)"/>
           <text x="16" y="0" font-family="'Inter',sans-serif" font-size="13" fill="#475569">Email:</text>
-          <text x="150" y="0" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="500" fill="#0F172A">hello@alexrivera.dev</text>
+          <text x="150" y="0" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="500" fill="#0F172A">rithvik.nag@gmail.com</text>
         </g>
 
     <text x="494" y="376" font-family="'Inter',sans-serif" font-size="13" font-weight="700" fill="#475569" letter-spacing="1.5">SKILLS &amp; TOOLS</text>
@@ -346,7 +346,7 @@
             values="0,6; 0,0" keyTimes="0;1" dur="0.6s" begin="4.50s" fill="freeze"/>
           <rect x="-9" y="-9" width="76" height="50" rx="17" fill="url(#pillGlow-light)" opacity="0.55" filter="url(#softBlur-light)"/>
           <rect x="0" y="0" width="58" height="32" rx="17" fill="rgba(15,23,42,0.03)" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
-          <text x="29.0" y="20.5" text-anchor="middle" font-family="'Inter',sans-serif" font-size="12.5" font-weight="600" fill="#0F172A">React</text>
+          <text x="29.0" y="20.5" text-anchor="middle" font-family="'Inter',sans-serif" font-size="12.5" font-weight="600" fill="#0F172A">Java</text>
           <animateTransform attributeName="transform" type="translate" additive="sum"
             values="0,0; 0,-3; 0,0" keyTimes="0;0.5;1" dur="3.60s" begin="6.00s" repeatCount="indefinite"/>
         </g>
@@ -356,7 +356,7 @@
             values="0,6; 0,0" keyTimes="0;1" dur="0.6s" begin="4.65s" fill="freeze"/>
           <rect x="-9" y="-9" width="89" height="50" rx="17" fill="url(#pillGlow-light)" opacity="0.55" filter="url(#softBlur-light)"/>
           <rect x="0" y="0" width="71" height="32" rx="17" fill="rgba(15,23,42,0.03)" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
-          <text x="35.5" y="20.5" text-anchor="middle" font-family="'Inter',sans-serif" font-size="12.5" font-weight="600" fill="#0F172A">Next.js</text>
+          <text x="35.5" y="20.5" text-anchor="middle" font-family="'Inter',sans-serif" font-size="12.5" font-weight="600" fill="#0F172A">JDBC</text>
           <animateTransform attributeName="transform" type="translate" additive="sum"
             values="0,0; 0,-3; 0,0" keyTimes="0;0.5;1" dur="3.75s" begin="6.15s" repeatCount="indefinite"/>
         </g>
@@ -366,7 +366,7 @@
             values="0,6; 0,0" keyTimes="0;1" dur="0.6s" begin="4.80s" fill="freeze"/>
           <rect x="-9" y="-9" width="89" height="50" rx="17" fill="url(#pillGlow-light)" opacity="0.55" filter="url(#softBlur-light)"/>
           <rect x="0" y="0" width="71" height="32" rx="17" fill="rgba(15,23,42,0.03)" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
-          <text x="35.5" y="20.5" text-anchor="middle" font-family="'Inter',sans-serif" font-size="12.5" font-weight="600" fill="#0F172A">Node.js</text>
+          <text x="35.5" y="20.5" text-anchor="middle" font-family="'Inter',sans-serif" font-size="12.5" font-weight="600" fill="#0F172A">Hibernate</text>
           <animateTransform attributeName="transform" type="translate" additive="sum"
             values="0,0; 0,-3; 0,0" keyTimes="0;0.5;1" dur="3.90s" begin="6.30s" repeatCount="indefinite"/>
         </g>
@@ -376,7 +376,7 @@
             values="0,6; 0,0" keyTimes="0;1" dur="0.6s" begin="4.95s" fill="freeze"/>
           <rect x="-9" y="-9" width="113" height="50" rx="17" fill="url(#pillGlow-light)" opacity="0.55" filter="url(#softBlur-light)"/>
           <rect x="0" y="0" width="95" height="32" rx="17" fill="rgba(15,23,42,0.03)" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
-          <text x="47.5" y="20.5" text-anchor="middle" font-family="'Inter',sans-serif" font-size="12.5" font-weight="600" fill="#0F172A">TypeScript</text>
+          <text x="47.5" y="20.5" text-anchor="middle" font-family="'Inter',sans-serif" font-size="12.5" font-weight="600" fill="#0F172A">Spring Boot</text>
           <animateTransform attributeName="transform" type="translate" additive="sum"
             values="0,0; 0,-3; 0,0" keyTimes="0;0.5;1" dur="4.05s" begin="6.45s" repeatCount="indefinite"/>
         </g>
@@ -386,7 +386,7 @@
             values="0,6; 0,0" keyTimes="0;1" dur="0.6s" begin="5.10s" fill="freeze"/>
           <rect x="-9" y="-9" width="97" height="50" rx="17" fill="url(#pillGlow-light)" opacity="0.55" filter="url(#softBlur-light)"/>
           <rect x="0" y="0" width="79" height="32" rx="17" fill="rgba(15,23,42,0.03)" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
-          <text x="39.5" y="20.5" text-anchor="middle" font-family="'Inter',sans-serif" font-size="12.5" font-weight="600" fill="#0F172A">Tailwind</text>
+          <text x="39.5" y="20.5" text-anchor="middle" font-family="'Inter',sans-serif" font-size="12.5" font-weight="600" fill="#0F172A">Python</text>
           <animateTransform attributeName="transform" type="translate" additive="sum"
             values="0,0; 0,-3; 0,0" keyTimes="0;0.5;1" dur="4.20s" begin="6.60s" repeatCount="indefinite"/>
         </g>
@@ -396,7 +396,7 @@
             values="0,6; 0,0" keyTimes="0;1" dur="0.6s" begin="5.25s" fill="freeze"/>
           <rect x="-9" y="-9" width="81" height="50" rx="17" fill="url(#pillGlow-light)" opacity="0.55" filter="url(#softBlur-light)"/>
           <rect x="0" y="0" width="63" height="32" rx="17" fill="rgba(15,23,42,0.03)" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
-          <text x="31.5" y="20.5" text-anchor="middle" font-family="'Inter',sans-serif" font-size="12.5" font-weight="600" fill="#0F172A">Python</text>
+          <text x="31.5" y="20.5" text-anchor="middle" font-family="'Inter',sans-serif" font-size="12.5" font-weight="600" fill="#0F172A">FastAPI</text>
           <animateTransform attributeName="transform" type="translate" additive="sum"
             values="0,0; 0,-3; 0,0" keyTimes="0;0.5;1" dur="4.35s" begin="6.75s" repeatCount="indefinite"/>
         </g>
@@ -426,7 +426,7 @@
             values="0,6; 0,0" keyTimes="0;1" dur="0.6s" begin="5.70s" fill="freeze"/>
           <rect x="-9" y="-9" width="76" height="50" rx="17" fill="url(#pillGlow-light)" opacity="0.55" filter="url(#softBlur-light)"/>
           <rect x="0" y="0" width="58" height="32" rx="17" fill="rgba(15,23,42,0.03)" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
-          <text x="29.0" y="20.5" text-anchor="middle" font-family="'Inter',sans-serif" font-size="12.5" font-weight="600" fill="#0F172A">AWS</text>
+          <text x="29.0" y="20.5" text-anchor="middle" font-family="'Inter',sans-serif" font-size="12.5" font-weight="600" fill="#0F172A">Redis</text>
           <animateTransform attributeName="transform" type="translate" additive="sum"
             values="0,0; 0,-3; 0,0" keyTimes="0;0.5;1" dur="4.80s" begin="7.20s" repeatCount="indefinite"/>
         </g>
@@ -446,7 +446,7 @@
             values="0,6; 0,0" keyTimes="0;1" dur="0.6s" begin="6.00s" fill="freeze"/>
           <rect x="-9" y="-9" width="76" height="50" rx="17" fill="url(#pillGlow-light)" opacity="0.55" filter="url(#softBlur-light)"/>
           <rect x="0" y="0" width="58" height="32" rx="17" fill="rgba(15,23,42,0.03)" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
-          <text x="29.0" y="20.5" text-anchor="middle" font-family="'Inter',sans-serif" font-size="12.5" font-weight="600" fill="#0F172A">Figma</text>
+          <text x="29.0" y="20.5" text-anchor="middle" font-family="'Inter',sans-serif" font-size="12.5" font-weight="600" fill="#0F172A">MySQL</text>
           <animateTransform attributeName="transform" type="translate" additive="sum"
             values="0,0; 0,-3; 0,0" keyTimes="0;0.5;1" dur="5.10s" begin="7.50s" repeatCount="indefinite"/>
         </g>
